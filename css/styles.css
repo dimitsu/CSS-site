@@ -93,6 +93,10 @@ h3{
     font-weight: normal;
 }
 
+.skills{
+    padding: 0 0 5% 0;
+}
+
 .skill-row{
     width: 50%;
     margin: 100px auto 100px auto;
